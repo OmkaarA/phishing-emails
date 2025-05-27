@@ -61,7 +61,7 @@ These phrases are commonly used to create panic and push the user into taking ra
 - Phishing emails often disguise harmful URLs with legitimate-looking text.
 
 ### 6. 📝 **Spelling or Grammar Errors**
-- The message appears fairly polished but uses a **generic salutation** (“Dear Customer”) instead of addressing the recipient by name.
+- There are no apparent grammatical or spelling mistakes, but the message uses a **generic salutation** (“Dear Customer”) instead of addressing the recipient by name.
 - Small details like tone and formatting help reveal illegitimacy.
 
 ### 7. 🧠 **Phishing Traits Summary**
